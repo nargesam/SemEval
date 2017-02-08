@@ -23,7 +23,7 @@ with open(os.path.join(path, 'Tweet_nonZero_tolower.csv'), 'rb') as f:
 
 testData = list()
 
-with open('Test_semEval_tolower.csv', 'rb') as f:
+with open(os.path.join(path, 'Test_semEval_tolower.csv'), 'rb') as f:
     reader = csv.reader(f)
     for row in reader:
         testData.append(row)
