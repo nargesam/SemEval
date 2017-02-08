@@ -1,0 +1,788 @@
+inst#,actual,predicted,error,prediction,tweet,
+1,1:?,1,,0.68,'close ctrp 4616 4355 entry 66',0.68
+2,1:?,1,,0.97,'every reason bullish',0.97
+3,1:?,1,,0.74,'panw need anoth 1 time high',0.74
+4,1:?,1,,1,'long setup',1
+5,1:?,1,,0.98,'solid long term investmen passive added sbux today income',0.98
+6,1:?,-1,,0.92,recall,-0.92
+7,1:?,1,,1,'marriott wins new starwood deal raising cash portion bid',1
+8,1:?,1,,0.85,'time embrace dividend growth',0.85
+9,1:?,-1,,0.877,'bullshit applestores empty chinams must preparing liquidate aapl',-0.877
+10,1:?,1,,1,'5star analyst robert derrington wunderlich reiterated buy',1
+11,1:?,1,,0.97,'excited big value hoping',0.97
+12,1:?,1,,0.85,'oil break outadding chevron',0.85
+13,1:?,1,,0.98,'unusual call activity',0.98
+14,1:?,1,,0.82,'chinas tourist bonanza isnt going anywhere',0.82
+15,1:?,1,,0.7,15,0.7
+16,1:?,-1,,0.53,'not guaranteed',-0.53
+17,1:?,1,,0.95,'potential continuation uptrend',0.95
+18,1:?,1,,0.93,longed,0.93
+19,1:?,-1,,0.75,'absolute garbage still upstores totally emptystock mispriced',-0.75
+20,1:?,1,,1,'buy dip',1
+21,1:?,-1,,0.73,'weakest todays dt watchlist',-0.73
+22,1:?,-1,,0.88,'see reasons cautious',-0.88
+23,1:?,-1,,0.76,breaking,-0.76
+24,1:?,-1,,0.81,'bbry smack down looks legitimategs msare playing ignorant',-0.81
+25,1:?,1,,0.94,'swing trade looks like want go up',0.94
+26,1:?,-1,,0.73,'add short',-0.73
+27,1:?,1,,0.95,nice,0.95
+28,1:?,-1,,0.87,'verified 9895 loss endp trades',-0.87
+29,1:?,1,,0.95,'loving volume',0.95
+30,1:?,1,,0.82,'hod buyers stepped',0.82
+31,1:?,1,,0.85,'clearing back above 50 daynext buy add area clears upper trend line volume',0.85
+32,1:?,1,,0.77,'eems respecting channel',0.77
+33,1:?,1,,1,'sector stocks leading today',1
+34,1:?,-1,,1,overbought,-1
+35,1:?,1,,0.583,'look fb live video roll tough space',0.583
+36,1:?,1,,0.91,'kodak could pick up christmas write taxes',0.91
+37,1:?,-1,,0.86,'theyll whip back down',-0.86
+38,1:?,1,,0.81,'plus irish based getting rid generic biz',0.81
+39,1:?,1,,0.7,3037,0.7
+40,1:?,1,,0.742,'top net pay out yields',0.742
+41,1:?,-1,,0.84,'got sell signal 7114 still force target below 150',-0.84
+42,1:?,-1,,0.59,'buy not end world',-0.59
+43,1:?,1,,0.93,'future bright',0.93
+44,1:?,-1,,0.52,'bulls careful',-0.52
+45,1:?,1,,0.9,'577 added 576 pb',0.9
+46,1:?,1,,0.93,'may ripe takeover targe',0.93
+47,1:?,1,,1,'top 5 stock picks',1
+48,1:?,1,,0.84,'tomorrow morning likely open north',0.84
+49,1:?,1,,1,'unusual call activity',1
+50,1:?,1,,0.76,'iraq boosts oil production record',0.76
+51,1:?,-1,,0.72,'failed breakouts failed setups limping crutches next week',-0.72
+52,1:?,1,,0.81,'takeover interest',0.81
+53,1:?,1,,0.78,'endp shares rattled',0.78
+54,1:?,1,,1,'buy csx ride railroads',1
+55,1:?,1,,0.582,'fb aapl',0.582
+56,1:?,-1,,1,'downgrade er',-1
+57,1:?,1,,0.97,'good opportunity buy',0.97
+58,1:?,-1,,0.96,'insy lower',-0.96
+59,1:?,1,,0.97,'nice day rally',0.97
+60,1:?,1,,0.99,'popping up hod',0.99
+61,1:?,-1,,0.9,'large players selling',-0.9
+62,1:?,1,,0.81,'finally broke free big brothers shadow',0.81
+63,1:?,1,,0.99,'buy back shares',0.99
+64,1:?,1,,0.67,'insider trading clair st unloaded 5838 shares',0.67
+65,1:?,1,,0.64,'files lawsuit verizon',0.64
+66,1:?,1,,0.96,'looks solid 2016 high teens eps growth',0.96
+67,1:?,-1,,0.82,'fit sune not changed',-0.82
+68,1:?,1,,0.74,'doubled number',0.74
+69,1:?,1,,0.98,'positive top notch investor dd trusted',0.98
+70,1:?,1,,1,'best stocks 2012',1
+71,1:?,1,,0.7,'addednew subscribers',0.7
+72,1:?,-1,,0.8,'market seems like roll here look below',-0.8
+73,1:?,1,,0.88,'apples category win',0.88
+74,1:?,1,,0.75,'bullish story intact even market rolls',0.75
+75,1:?,-1,,0.79,'continues base debate linger downside limited',-0.79
+76,1:?,1,,0.93,'updated core4 portfolio',0.93
+77,1:?,1,,0.58,'news nothing left dont keep anymor',0.58
+78,1:?,1,,1,'highest call put ratio',1
+79,1:?,1,,0.96,toprated,0.96
+80,1:?,1,,1,'current holdings via options long',1
+81,1:?,1,,1,'watchlist top stocks',1
+82,1:?,1,,0.74,'could testing 425 days',0.74
+83,1:?,1,,0.7,'bhp 304',0.7
+84,1:?,-1,,0.91,'time stomp dreams',-0.91
+85,1:?,-1,,0.98,sold,-0.98
+86,1:?,1,,0.55,'arrg go round 2',0.55
+87,1:?,-1,,0.98,'short term fundredemption liquidations',-0.98
+88,1:?,-1,,0.87,'fb down 75 bearish patternimpressive bearish move',-0.87
+89,1:?,1,,0.81,'largest online gaming market',0.81
+90,1:?,1,,0.79,'would like see upside break channel week',0.79
+91,1:?,-1,,0.93,'european debt keeps stocks down',-0.93
+92,1:?,-1,,0.93,'lookin 4 short opt',-0.93
+93,1:?,1,,0.933,'long fb',0.933
+94,1:?,1,,0.51,'still real movement im sidelines',0.51
+95,1:?,-1,,0.78,'another great day millions gain shorts get caught tall grass',-0.78
+96,1:?,1,,0.86,'moves up tr1 long watchlist',0.86
+97,1:?,1,,0.59,'laggard nothing get excited imois underperforming market',0.59
+98,1:?,1,,0.91,'google ibm arm amd begin assault intels server franchise',0.91
+99,1:?,-1,,0.97,'weak outlook',-0.97
+100,1:?,1,,0.7,'join dow jones monthreplacing',0.7
+101,1:?,1,,0.99,'bullish stocks twitter dip',0.99
+102,1:?,-1,,0.72,red,-0.72
+103,1:?,1,,0.8,'accumulated day',0.8
+104,1:?,1,,1,'ses warrants buy 117b 1497 amerisourcebergenpbr16 shares',1
+105,1:?,1,,0.76,'iraq boosts oil production record',0.76
+106,1:?,-1,,0.94,'biggest market losers',-0.94
+107,1:?,1,,0.93,'added bbbystill profitable merchant profitable stores',0.93
+108,1:?,-1,,0.94,'stochastic sell signal',-0.94
+109,1:?,1,,1,'huge buy names',1
+110,1:?,-1,,0.97,'max pain 10100',-0.97
+111,1:?,1,,0.69,'oil 276',0.69
+112,1:?,1,,0.95,'everyone buying calls eod friday',0.95
+113,1:?,-1,,0.94,'consumers keep cautious stance',-0.94
+114,1:?,1,,0.96,'decent supt hereexpect upside',0.96
+115,1:?,-1,,0.95,'swing short',-0.95
+116,1:?,-1,,0.8,'short setups looking nicereally nice',-0.8
+117,1:?,-1,,0.86,'new large player sells',-0.86
+118,1:?,1,,0.93,'must exciting',0.93
+119,1:?,-1,,0.65,'down day week month year',-0.65
+120,1:?,1,,0.95,'aapl interesting positive stories coming past day',0.95
+121,1:?,-1,,0.89,plunged,-0.89
+122,1:?,1,,0.98,'equity indexes working positive engulfing march',0.98
+123,1:?,1,,1,'hope okay',1
+124,1:?,-1,,0.72,'consumers keep cautious stance',-0.72
+125,1:?,1,,0.88,'upcoming first support days weeks',0.88
+126,1:?,1,,0.9,'earnings growth looks dim current multiple high',0.9
+127,1:?,1,,0.99,'multiyear stock breakouts',0.99
+128,1:?,1,,0.52,'timing everything time canna security america',0.52
+129,1:?,1,,0.99,'could see nice pop bids come higher expected',0.99
+130,1:?,1,,0.95,'pushing highs',0.95
+131,1:?,-1,,0.79,'turns back down early trading',-0.79
+132,1:?,1,,0.95,'resuming advance new historical highs',0.95
+133,1:?,1,,0.85,'liking upside break',0.85
+134,1:?,-1,,0.55,'not pretty longer look',-0.55
+135,1:?,-1,,0.9,'oil slid fouryear low afteropec kept oil production unchange',-0.9
+136,1:?,1,,0.76,'flat week',0.76
+137,1:?,1,,0.89,'eod run',0.89
+138,1:?,1,,1,long,1
+139,1:?,-1,,1,'another sell rating',-1
+140,1:?,-1,,0.617,'aapl could jump 50 partnering tsla',-0.617
+141,1:?,1,,0.99,'china february retail sales ecommerce remains resilient',0.99
+142,1:?,1,,1,'top 5 stock picks',1
+143,1:?,1,,1,long,1
+144,1:?,1,,0.87,'todays momentum movers',0.87
+145,1:?,1,,1,trending,1
+146,1:?,1,,0.9,'looking strong bounce lunchtime rally coming',0.9
+147,1:?,1,,1,'stocks higher afternoon trade',1
+148,1:?,1,,0.9,'time go long amzn',0.9
+149,1:?,1,,0.96,'first quarter amazing',0.96
+150,1:?,1,,0.9,'ftnt new high',0.9
+151,1:?,1,,0.75,'technologyhelp users',0.75
+152,1:?,1,,0.73,'next resistance around',0.73
+153,1:?,-1,,0.71,'bulls defend',-0.71
+154,1:?,-1,,0.72,'broken downtrend',-0.72
+155,1:?,-1,,1,'slips downgrade',-1
+156,1:?,1,,1,long,1
+157,1:?,1,,0.99,'pie sky',0.99
+158,1:?,1,,0.93,'hottest part techsbux deal',0.93
+159,1:?,1,,0.63,'great company needs buyers',0.63
+160,1:?,1,,1,'added long friday close',1
+161,1:?,1,,0.98,'ief bullish tlt',0.98
+162,1:?,1,,0.92,'back saddle',0.92
+163,1:?,1,,0.99,'one go long money rotating large cap tech',0.99
+164,1:?,-1,,0.76,'seeing competition',-0.76
+165,1:?,-1,,0.88,'see reasons cautious',-0.88
+166,1:?,1,,0.84,'up another 03 ahit long way go find resistence',0.84
+167,1:?,1,,0.98,'3 top japan etfs surge higher 2h',0.98
+168,1:?,1,,0.98,'unusual call activity',0.98
+169,1:?,-1,,0.963,'ron johnson tried failed inject bit apple culture jc penney',-0.963
+170,1:?,1,,0.96,'premier retail dividend play',0.96
+171,1:?,1,,0.98,'blackberry messenger second facebook user loyalty',0.98
+172,1:?,1,,0.98,'up sale',0.98
+173,1:?,1,,0.91,'nice fade bell',0.91
+174,1:?,-1,,1,'stochastic overbought',-1
+175,1:?,1,,0.76,'wfm may feel price competition',0.76
+176,1:?,-1,,0.87,'users vetr bearish indicating sell rating',-0.87
+177,1:?,1,,0.97,'up 1',0.97
+178,1:?,1,,0.96,breakouts,0.96
+179,1:?,-1,,0.92,recall,-0.92
+180,1:?,-1,,1,'stochastic overbought',-1
+181,1:?,-1,,0.56,'sell ratingin need innovation',-0.56
+182,1:?,1,,0.95,'buying opportunity',0.95
+183,1:?,-1,,0.57,'like tsla end',-0.57
+184,1:?,1,,0.94,'google soon start selling chromebooks walmart staples',0.94
+185,1:?,-1,,0.55,'analysts martian orders way high theyll never hit',-0.55
+186,1:?,1,,0.95,'massive new jd headquarters okay detected',0.95
+187,1:?,1,,0.95,'nice little cupandhandle shaping upfavours good day index',0.95
+188,1:?,1,,0.99,'pie sky',0.99
+189,1:?,1,,1,'inside week buy triggers',1
+190,1:?,1,,0.99,'stocks insiders bullish',0.99
+191,1:?,1,,1,'moving up',1
+192,1:?,-1,,0.98,'recessions declines',-0.98
+193,1:?,1,,0.79,'google dividend 0',0.79
+194,1:?,-1,,0.84,'gets nasdaq delisting noticeboard quit diluting shares',-0.84
+195,1:?,1,,1,'quality stocks high cash returns',1
+196,1:?,1,,0.52,'finally right time invest national bank greeceire',0.52
+197,1:?,1,,0.72,'loves sees',0.72
+198,1:?,1,,0.74,'bounce retreats okay means',0.74
+199,1:?,1,,0.86,'still wants higher think',0.86
+200,1:?,1,,0.68,'crazy market up down up down up down',0.68
+201,1:?,1,,1,'inside week buy triggers',1
+202,1:?,1,,0.64,'insiders got one wronglooking bottomrsi 30',0.64
+203,1:?,1,,0.96,'good comeback',0.96
+204,1:?,1,,0.95,'sh got potential',0.95
+205,1:?,1,,0.7,'eading 200dma certain doom',0.7
+206,1:?,1,,0.85,'oil break outadding chevron',0.85
+207,1:?,-1,,0.89,stopped,-0.89
+208,1:?,1,,0.9,'potential continuation uptrend',0.9
+209,1:?,1,,0.88,'spikes lowslower go',0.88
+210,1:?,-1,,0.94,'amba down',-0.94
+211,1:?,1,,1,'must buy',1
+212,1:?,-1,,0.93,'adbe shorted 1 short float',-0.93
+213,1:?,1,,0.7,gusta,0.7
+214,1:?,1,,0.91,'rally fridaynew52weekhighsp 31',0.91
+215,1:?,-1,,0.91,'tsla news notokay',-0.91
+216,1:?,1,,0.91,'delivering goods lets see spill chinese internet names',0.91
+217,1:?,-1,,0.98,'companies shld worried icloud',-0.98
+218,1:?,1,,0.86,'gevos alcohol jet fuel eligible used commercial flight',0.86
+219,1:?,1,,0.893,'fb gone green day',0.893
+220,1:?,1,,0.77,'incy 100',0.77
+221,1:?,1,,0.76,'iraq boosts oil production record',0.76
+222,1:?,1,,0.88,'expects earnings maintain healthy growth year ahead companys share price gained',0.88
+223,1:?,-1,,0.87,'sees downside 425',-0.87
+224,1:?,1,,0.51,'citrix systems inc ctxs position increased mizuho',0.51
+225,1:?,1,,0.76,'nice buyable intraday dip right',0.76
+226,1:?,1,,0.86,'gevos alcohol jet fuel eligible used commercial flight',0.86
+227,1:?,-1,,0.95,'lose least 1bmay notokay another year',-0.95
+228,1:?,1,,0.69,'waterfall ahead',0.69
+229,1:?,1,,0.81,'unusual call activity',0.81
+230,1:?,1,,0.97,'nice day rally',0.97
+231,1:?,-1,,0.81,'bbry smack down looks legitimategs msare playing ignorant',-0.81
+232,1:?,1,,0.97,'13f shows new stakes',0.97
+233,1:?,1,,0.93,'aaplhad big growing success years',0.93
+234,1:?,1,,0.93,'still positive market biassharp rally lowquality stocks points ongoing market gains',0.93
+235,1:?,-1,,0.93,'sell nflx',-0.93
+236,1:?,1,,0.7,'frs restaurants 24759',0.7
+237,1:?,-1,,0.96,'cuts outlook down',-0.96
+238,1:?,-1,,0.99,'cracking lower early short correction',-0.99
+239,1:?,1,,1,'current holdings via options long',1
+240,1:?,1,,0.97,'biggest gainers today large caps',0.97
+241,1:?,1,,0.85,'new macd signal created',0.85
+242,1:?,-1,,0.52,'aapl cleary surpassed bb',-0.52
+243,1:?,-1,,0.51,'broke descending channel',-0.51
+244,1:?,-1,,0.89,'complex challenges',-0.89
+245,1:?,1,,0.98,'markets back black 2016',0.98
+246,1:?,-1,,0.94,'biggest market losers',-0.94
+247,1:?,1,,0.8,'nice pop todaytold ya would green',0.8
+248,1:?,-1,,0.95,'deutsche bank downgraded starbucks co',-0.95
+249,1:?,1,,0.76,'ams ahold 5',0.76
+250,1:?,1,,0.95,'rise 2morrow',0.95
+251,1:?,1,,0.64,'looking add gold miner possibly lower pe tech name close',0.64
+252,1:?,1,,0.8,'sucker ralliesdown trend',0.8
+253,1:?,1,,0.79,'shares climb',0.79
+254,1:?,1,,0.98,'looks good',0.98
+255,1:?,1,,0.6,'pivot area intraday chart',0.6
+256,1:?,1,,0.8,'diversifies riskbest place world',0.8
+257,1:?,-1,,0.87,'think tsla bubble might go time',-0.87
+258,1:?,1,,0.82,'private equity yahoo bid',0.82
+259,1:?,1,,0.85,'oil break outadding chevron',0.85
+260,1:?,1,,0.72,'anglo american jumps 9',0.72
+261,1:?,1,,0.84,'raises revenue forecast',0.84
+262,1:?,-1,,0.57,'market lot faith ecb',-0.57
+263,1:?,1,,0.81,'largest online gaming market',0.81
+264,1:?,-1,,0.96,'cuts outlook down',-0.96
+265,1:?,1,,0.75,'little pullback',0.75
+266,1:?,1,,0.91,'possible target',0.91
+267,1:?,-1,,0.94,'short sighted sellers sorry soon',-0.94
+268,1:?,1,,0.73,'lpth hot',0.73
+269,1:?,1,,0.91,'likely strongly benefit genetherapy',0.91
+270,1:?,1,,0.99,'good load up confident',0.99
+271,1:?,1,,0.85,'congrats whoever bought',0.85
+272,1:?,1,,0.71,'fb 20 times advertisers twtr',0.71
+273,1:?,-1,,0.97,'weak outlook',-0.97
+274,1:?,1,,0.73,'tensions grow china japan',0.73
+275,1:?,1,,0.64,'looking add gold miner possibly lower pe tech name close',0.64
+276,1:?,1,,0.7,'investment validates company',0.7
+277,1:?,-1,,0.83,'tsla not available shorting time w',-0.83
+278,1:?,1,,1,'quality stocks high cash returns',1
+279,1:?,-1,,0.72,'broken stockdownside possibilityi initiate new short position',-0.72
+280,1:?,-1,,0.61,'finally breaking 49 mano buybacks week',-0.61
+281,1:?,1,,0.65,'eros gets clean bill health audit',0.65
+282,1:?,1,,0.86,'shopping spree may continue',0.86
+283,1:?,-1,,0.912,'wont pay anymorereal risk',-0.912
+284,1:?,1,,0.96,'adding expe pcln mix sooni already ctrp trip',0.96
+285,1:?,1,,1,'strong buy',1
+286,1:?,1,,0.99,'eps up 19 quarter last year',0.99
+287,1:?,1,,1,'unusual call activity',1
+288,1:?,1,,1,'4star analyst scott henry roth capital reiterated buy',1
+289,1:?,-1,,0.52,'im going tomorrow evening',-0.52
+290,1:?,1,,0.727,'fb squeezing one side',0.727
+291,1:?,1,,0.568,'sees apple 150share year 36 today',0.568
+292,1:?,1,,0.79,'tomorrow might rare buy tsla day',0.79
+293,1:?,1,,0.81,'play tmrw',0.81
+294,1:?,1,,0.95,'195 calls 78',0.95
+295,1:?,1,,1,'unusual call activity',1
+296,1:?,1,,0.52,'calls getting hottoday getting paid',0.52
+297,1:?,-1,,0.77,'still not breaking',-0.77
+298,1:?,1,,0.7,'fxi 293',0.7
+299,1:?,1,,0.78,'facebook trying get payments',0.78
+300,1:?,1,,0.96,'excited plays',0.96
+301,1:?,1,,0.76,'get ground floor fio',0.76
+302,1:?,1,,0.89,'91 support',0.89
+303,1:?,1,,0.97,'reat comeback amzn great comeback amzn',0.97
+304,1:?,1,,0.88,'new high 2016',0.88
+305,1:?,1,,0.82,'still track 500',0.82
+306,1:?,-1,,0.94,'gaps down probly open get worse puts stupid cheap',-0.94
+307,1:?,1,,1,'unusual call activity',1
+308,1:?,1,,0.86,'daily mail may yahoo',0.86
+309,1:?,1,,1,'top stocks 2015 ready lead 2016',1
+310,1:?,-1,,0.95,'not getting inoil falling',-0.95
+311,1:?,1,,0.74,'competing bids emerge permit board explore value enhancing alternatives objective maximizing',0.74
+312,1:?,1,,0.89,'resurgence stock price today might mean company may emerge stronger ever',0.89
+313,1:?,1,,0.99,'supermarket stocks rally tesco plans axe noncore uk assets',0.99
+314,1:?,1,,1,'long buying point',1
+315,1:?,-1,,0.85,'bear raid',-0.85
+316,1:?,-1,,1,'trading weak vs spy qqq',-1
+317,1:?,-1,,1,short,-1
+318,1:?,1,,0.92,'expects strong results',0.92
+319,1:?,1,,0.54,'calx 40',0.54
+320,1:?,1,,0.9,'one obvious opportunities year',0.9
+321,1:?,1,,1,'holding up relatively well compared broad market',1
+322,1:?,-1,,0.88,'would rather buyer ugaz levels trying sell',-0.88
+323,1:?,-1,,0.51,'go up much higher drop',-0.51
+324,1:?,-1,,0.96,'dumped pypl prlb',-0.96
+325,1:?,1,,0.92,'real deal hereholding',0.92
+326,1:?,-1,,0.9,'large players selling',-0.9
+327,1:?,1,,0.97,'yahoo extends bidding deadline interest grows',0.97
+328,1:?,1,,1,'could offer support revisit jump long bus',1
+329,1:?,1,,1,'new positive timing signal',1
+330,1:?,1,,0.87,'bring good news time',0.87
+331,1:?,1,,0.9,'shareholders welcome marriottstarwood deal',0.9
+332,1:?,1,,0.84,'big winnerlong',0.84
+333,1:?,-1,,0.76,'short holding breath hoping miracle',-0.76
+334,1:?,1,,0.92,back,0.92
+335,1:?,-1,,0.79,'market seems like roll herelook below',-0.79
+336,1:?,1,,0.93,'led light bulb prices rise japan',0.93
+337,1:?,1,,0.77,'100 upside left next 6 mnths',0.77
+338,1:?,-1,,0.96,'bears take clear near term advantage',-0.96
+339,1:?,1,,0.923,'topeka capital markets thinks sois fb buy',0.923
+340,1:?,1,,1,'unusual call activity',1
+341,1:?,-1,,0.62,'one want miss great newpatent new nxt wk',-0.62
+342,1:?,1,,0.99,'bullish stocks twitter dip',0.99
+343,1:?,-1,,0.827,'loading spy aapl putsthink toppy',-0.827
+344,1:?,1,,0.79,'airlines battle cuba routes aal luv save jblu',0.79
+345,1:?,1,,0.54,'pullback time',0.54
+346,1:?,-1,,0.76,'another 30 bbry 16 weekly puts',-0.76
+347,1:?,-1,,0.78,'red bell',-0.78
+348,1:?,-1,,0.563,'fb taking shine aapl goog',-0.563
+349,1:?,1,,0.93,'rally mode',0.93
+350,1:?,-1,,1,'short setups looking nicereally nice',-1
+351,1:?,-1,,0.85,'becoming disaster better returns elsewhere',-0.85
+352,1:?,1,,0.7,'entry ideacoming narrow intraday range yesterdays high still above',0.7
+353,1:?,-1,,0.657,'aapl killed former killing latter',-0.657
+354,1:?,1,,0.97,'best stock wts 15',0.97
+355,1:?,-1,,0.92,'insider selling probably reason',-0.92
+356,1:?,1,,0.9,'looking hmc stock make new 2013 high',0.9
+357,1:?,1,,0.96,'330 decreased bullish conversations',0.96
+358,1:?,1,,0.95,'breakout watch',0.95
+359,1:?,-1,,1,'insiders selling',-1
+360,1:?,1,,1,'strong weekly led buy rec last weekdaily rs improving',1
+361,1:?,1,,0.88,'trails msft orcl goog crm adbe',0.88
+362,1:?,1,,0.7,'cytr af bashing',0.7
+363,1:?,1,,0.59,'amgn one year laterim tired waiting',0.59
+364,1:?,-1,,0.9,'right reject offer',-0.9
+365,1:?,-1,,0.68,'bot ung puts',-0.68
+366,1:?,1,,0.719,'right top thre cloud',0.719
+367,1:?,1,,0.97,'buying tza calls',0.97
+368,1:?,1,,0.94,'closed friday rs line new highs',0.94
+369,1:?,1,,0.97,'rising steel demand higher prices steel coalcash magnet',0.97
+370,1:?,1,,0.99,'pie sky',0.99
+371,1:?,1,,0.99,'fed cuts rates forecastour calls go 100',0.99
+372,1:?,-1,,0.51,'adding puts',-0.51
+373,1:?,1,,0.87,'anyone stayed long aapl made plenty',0.87
+374,1:?,-1,,0.53,'like one lot',-0.53
+375,1:?,1,,1,'unusual call activity',1
+376,1:?,-1,,0.91,'actually lost 03c per share',-0.91
+377,1:?,1,,0.93,'updated core4 portfolio',0.93
+378,1:?,1,,0.82,'dips bought up real quick',0.82
+379,1:?,1,,1,'highest call put ratio',1
+380,1:?,-1,,0.59,'downside breakout  notokay looks coming soon',-0.59
+381,1:?,-1,,0.66,'equities recently tagged undervalued',-0.66
+382,1:?,-1,,0.9,'maintains neutral rating jp morganpt cut',-0.9
+383,1:?,1,,0.89,'heapest stock pe television services industrype 818 vsavg 26864779',0.89
+384,1:?,1,,0.95,'hell yeah ill take fill day long baby',0.95
+385,1:?,1,,0.81,'pot cont uptrend longerterm',0.81
+386,1:?,1,,0.78,'break confirmedbought leaps',0.78
+387,1:?,1,,1,'perfect buy',1
+388,1:?,1,,1,'long gpro brealout trade',1
+389,1:?,1,,0.82,'digital strategy drive significant growth customer loyalty',0.82
+390,1:?,1,,1,'double bottomhandle buy point',1
+391,1:?,1,,0.9,'stock options trade would doubled money',0.9
+392,1:?,1,,0.88,'companys tech works better load up',0.88
+393,1:?,1,,0.611,'report apple signs up googles cloud',0.611
+394,1:?,1,,0.89,'run forest run',0.89
+395,1:?,1,,1,'aggressive buy',1
+396,1:?,1,,0.51,'year launch its clear pretty much one needs aapl watch',0.51
+397,1:?,1,,0.97,'bullish reversal setup breakout',0.97
+398,1:?,1,,0.7,'nflx holding gain',0.7
+399,1:?,-1,,0.95,'worst performers today ek 10',-0.95
+400,1:?,1,,0.803,'guess aapl buys back aftercatch pinners guard',0.803
+401,1:?,-1,,0.99,'todays losers',-0.99
+402,1:?,-1,,0.82,'bearish outside day',-0.82
+403,1:?,1,,0.85,'commodity channel index indicator signaled oversold',0.85
+404,1:?,1,,0.97,'cant get back above 21220',0.97
+405,1:?,1,,0.75,'launching shopping botcatalyst 2016 catalyst 2016',0.75
+406,1:?,-1,,0.75,'yeah lets go down',-0.75
+407,1:?,1,,0.92,'held belowdouble top',0.92
+408,1:?,-1,,0.5,'above lower bollinger band',-0.5
+409,1:?,1,,0.82,'heeeeeere comes pumpso glad picked up 9k end dayget ready bull ride',0.82
+410,1:?,1,,1,'airplane hospitality industries set sights cuba',1
+411,1:?,1,,1,'sector stocks leading today',1
+412,1:?,1,,0.94,'impressive numbers',0.94
+413,1:?,1,,0.73,'trying break 50day sma',0.73
+414,1:?,1,,0.98,'still holding 226 yday',0.98
+415,1:?,1,,0.86,'hopefully pull back',0.86
+416,1:?,1,,0.86,'looking healthy pull back longterm target 8',0.86
+417,1:?,-1,,0.74,'lost huge still hopeful',-0.74
+418,1:?,-1,,0.91,'rejected hodshould head lower',-0.91
+419,1:?,-1,,0.77,'shortput positions looking good herewait market downturn confirm',-0.77
+420,1:?,-1,,0.96,'shorting pig',-0.96
+421,1:?,1,,0.85,'oil break outadding chevron',0.85
+422,1:?,-1,,0.7,'till failing close above 10d macontinues stand weak',-0.7
+423,1:?,1,,1,'five stocks helped starboard values equity portfolio return 65 q1',1
+424,1:?,-1,,0.91,'active puts',-0.91
+425,1:?,-1,,0.62,'deutsche bank cuts sbux',-0.62
+426,1:?,1,,1,'sector stocks leading today',1
+427,1:?,1,,0.96,'breakout today reporting earnings last night',0.96
+428,1:?,-1,,0.8,'short setups looking nicereally nice',-0.8
+429,1:?,-1,,0.93,'sold jan 2013 580 puts lows pull back',-0.93
+430,1:?,1,,0.98,'orgetting potential relative value users',0.98
+431,1:?,1,,0.91,'letting calls ride solo',0.91
+432,1:?,1,,0.77,'amzn 128',0.77
+433,1:?,1,,0.7,'slw 168',0.7
+434,1:?,1,,0.91,'google ibm arm amd begin assault intels server franchise',0.91
+435,1:?,-1,,0.59,'buy not end world',-0.59
+436,1:?,1,,0.707,'intu ises cloud software company',0.707
+437,1:?,1,,0.74,'sorry longs correction mode',0.74
+438,1:?,1,,1,longs,1
+439,1:?,1,,0.81,'finally nice downside move looking 31 handle break',0.81
+440,1:?,1,,0.86,'take shot',0.86
+441,1:?,1,,0.91,'relief rally becomes belief rally',0.91
+442,1:?,-1,,0.92,'sell fb',-0.92
+443,1:?,1,,0.68,'time buy',0.68
+444,1:?,-1,,0.86,'new large player sells',-0.86
+445,1:?,1,,0.81,'largest online gaming market',0.81
+446,1:?,1,,0.97,'notable gainers among liquid option names morning',0.97
+447,1:?,-1,,0.68,'see big down day near future',-0.68
+448,1:?,1,,1,longs,1
+449,1:?,-1,,0.87,'hope crush',-0.87
+450,1:?,1,,0.99,'china winners',0.99
+451,1:?,1,,1,'downbeaten stocks may ripe buys',1
+452,1:?,-1,,0.98,'oil prices down oil stocks looking less cheap',-0.98
+453,1:?,1,,0.81,still,0.81
+454,1:?,1,,0.87,'upper trend line approximate position 200dmabias up',0.87
+455,1:?,1,,0.99,'wow biocept among best 5 stocks',0.99
+456,1:?,1,,0.85,'up 33 since 625 buy signal',0.85
+457,1:?,1,,0.76,'increases annual dividend',0.76
+458,1:?,1,,1,'longerterm technical swing long basis',1
+459,1:?,1,,0.93,'may feed tsla momentum run lately',0.93
+460,1:?,-1,,1,overbought,-1
+461,1:?,1,,0.89,support,0.89
+462,1:?,-1,,0.79,'looks set fall',-0.79
+463,1:?,1,,0.77,'pretty steady accumulation support',0.77
+464,1:?,-1,,1,'biggest market losers',-1
+465,1:?,1,,1,'buy call',1
+466,1:?,1,,0.8,'closes near key support zone',0.8
+467,1:?,1,,0.66,'alibaba invests southeast asian retailer lazadabidu',0.66
+468,1:?,-1,,0.72,'getting wings clipped today',-0.72
+469,1:?,1,,0.95,'staying above open good sign',0.95
+470,1:?,-1,,1,downgrade,-1
+471,1:?,-1,,0.95,'awful down',-0.95
+472,1:?,1,,0.52,'getting killed csco calls',0.52
+473,1:?,1,,0.71,'support hope holds look',0.71
+474,1:?,-1,,0.84,'oasm grossly undervalued',-0.84
+475,1:?,-1,,0.9,'thumb down farno likeit supported ipo maker',-0.9
+476,1:?,1,,0.73,'could possibly even see425',0.73
+477,1:?,-1,,0.96,'putting little f short',-0.96
+478,1:?,1,,0.92,'equities recently tagged undervalued',0.92
+479,1:?,1,,0.92,'nflx higher expecte',0.92
+480,1:?,-1,,0.8,'short notokay move conviction',-0.8
+481,1:?,-1,,0.61,'failed breakouts failed setupslimping crutches next week',-0.61
+482,1:?,1,,0.99,'long april 44 calls',0.99
+483,1:?,-1,,0.88,'sell signal hit atit go down next 5 min',-0.88
+484,1:?,1,,0.62,'revenues 3281m vs 32818m est',0.62
+485,1:?,1,,0.93,'qqq watch close near hod',0.93
+486,1:?,-1,,0.65,'short workedputs up 50',-0.65
+487,1:?,-1,,0.97,'sell googl',-0.97
+488,1:?,1,,0.99,'bullish stocks twitter dip',0.99
+489,1:?,-1,,0.82,'stock consolidating accumulationwill funny see shorts get creamed',-0.82
+490,1:?,1,,0.89,'put money hznp better option drug already make money',0.89
+491,1:?,-1,,0.9,'cautious u late party',-0.9
+492,1:?,1,,1,long,1
+493,1:?,-1,,0.51,'adding puts',-0.51
+494,1:?,-1,,0.66,'yahoos getting lots attention',-0.66
+495,1:?,-1,,0.98,'going down',-0.98
+496,1:?,-1,,0.98,'monday sold',-0.98
+497,1:?,1,,0.66,'windows 10 awful',0.66
+498,1:?,1,,0.95,'breakout watch',0.95
+499,1:?,1,,0.97,'looking good',0.97
+500,1:?,1,,0.98,'reward better good earnings',0.98
+501,1:?,1,,1,'record number passengers served 2015',1
+502,1:?,1,,0.65,'breaking 759 eyes 755next buy target 7375 down 732',0.65
+503,1:?,-1,,0.8,'worst stock 2015',-0.8
+504,1:?,1,,1,'record number passengers served 2015',1
+505,1:?,1,,1,'long buying point',1
+506,1:?,-1,,0.61,'failed breakouts failed setupslimping crutches next week',-0.61
+507,1:?,1,,1,'long buying point',1
+508,1:?,1,,0.82,'chinese adrs heading higher',0.82
+509,1:?,-1,,1,'another sell rating',-1
+510,1:?,1,,0.97,'institutions seem like class stocks',0.97
+511,1:?,-1,,0.52,'people think safe market dropsnot',-0.52
+512,1:?,-1,,0.877,'aapl losing',-0.877
+513,1:?,1,,0.68,'bear flag hr chartget ready buy tha dip',0.68
+514,1:?,1,,0.87,'balance sheet value penney stock',0.87
+515,1:?,1,,1,'watchlist top stocks',1
+516,1:?,1,,1,'upgraded buy argus',1
+517,1:?,-1,,0.77,'weekly still 50 moving averagecreating lower high',-0.77
+518,1:?,1,,0.97,'tock still green',0.97
+519,1:?,-1,,0.99,'bottom losses',-0.99
+520,1:?,1,,1,'buy dip',1
+521,1:?,1,,0.84,'like christmas may',0.84
+522,1:?,1,,0.7,'fbs glorified scrapbook',0.7
+523,1:?,-1,,0.75,'going lowerforget go short',-0.75
+524,1:?,-1,,1,'slips downgrade',-1
+525,1:?,1,,0.62,'market tankingscaling down longs',0.62
+526,1:?,1,,0.95,oversold,0.95
+527,1:?,1,,0.92,'looks like good entry qihu',0.92
+528,1:?,1,,0.89,'91 support',0.89
+529,1:?,1,,0.73,'tensions grow china japan',0.73
+530,1:?,1,,1,'play longs',1
+531,1:?,-1,,0.99,'bottom losses',-0.99
+532,1:?,-1,,0.9,'chart shows distinctive down channel notokay',-0.9
+533,1:?,1,,0.63,'churning high volumelots sellers trying get',0.63
+534,1:?,1,,0.59,'u think pandora game changer please check spotfy',0.59
+535,1:?,1,,0.89,'support 1250',0.89
+536,1:?,1,,0.99,'bullish stocks twitter dip',0.99
+537,1:?,1,,0.58,'ok short go long everyone win stock moves around',0.58
+538,1:?,1,,0.98,'pivotal sees 27 upside alphabet',0.98
+539,1:?,-1,,0.96,recalls,-0.96
+540,1:?,1,,0.78,'breaking good vol parser buy signal',0.78
+541,1:?,-1,,0.99,'bottom losses',-0.99
+542,1:?,1,,0.72,'fb 34 vs 57',0.72
+543,1:?,-1,,0.83,'easy sell open every day',-0.83
+544,1:?,-1,,0.97,'ended day down',-0.97
+545,1:?,1,,1,'highest call put ratio',1
+546,1:?,1,,0.78,'intraday bo bull flagjnug',0.78
+547,1:?,1,,0.86,'google inc completes acquisition icoa',0.86
+548,1:?,-1,,0.87,'play 430 announcement sell',-0.87
+549,1:?,1,,0.76,'break yet either direction',0.76
+550,1:?,1,,0.88,'go elsewhere',0.88
+551,1:?,1,,0.95,'patents look strong com',0.95
+552,1:?,-1,,0.84,'back underdarn shorts',-0.84
+553,1:?,1,,1,'unusual call activity',1
+554,1:?,1,,0.95,'agree buy',0.95
+555,1:?,-1,,0.96,'baltic dry index lower 8 days 30 years',-0.96
+556,1:?,1,,0.88,'stalled 10644 previously looking enter near 10650',0.88
+557,1:?,1,,1,'cmon bulls buy dips',1
+558,1:?,1,,0.92,buying,0.92
+559,1:?,1,,0.81,'stock high probability rallying',0.81
+560,1:?,1,,0.87,'picked up calm target 57 gild target 115 great upside potential',0.87
+561,1:?,-1,,0.72,'sell sell sell short sell idiots leave em holding bag going end up like vrx worthless bloated pos',-0.72
+562,1:?,-1,,0.51,'breakout above 2983 would constitute technical entry short term trader',-0.51
+563,1:?,-1,,1,'red aapl dragging down qqq',-1
+564,1:?,1,,0.97,'strong move today junior gold minerskeep eye gap fill',0.97
+565,1:?,1,,0.99,'china winners',0.99
+566,1:?,1,,0.74,'sorry longs correction mode',0.74
+567,1:?,-1,,1,short,-1
+568,1:?,1,,0.69,'good news coming ill hold thirty large',0.69
+569,1:?,1,,0.94,'nice see turn corner',0.94
+570,1:?,-1,,0.81,'crazy ceo marissa mayer would receive multiple millions dollars failing turn yhoo around',-0.81
+571,1:?,1,,0.72,'drugs biotech getting perky',0.72
+572,1:?,-1,,0.61,'failed breakouts failed setupslimping crutches next week',-0.61
+573,1:?,1,,0.84,'im still bullish',0.84
+574,1:?,-1,,0.86,'hit short term target 100 sma',-0.86
+575,1:?,1,,0.81,'next long im eyeing',0.81
+576,1:?,1,,1,'maybe new buy program',1
+577,1:?,1,,0.98,'unusual call buying',0.98
+578,1:?,1,,1,'ascending triangle gives bullish bias chartbreakout above 84 positive',1
+579,1:?,1,,0.76,'iraq boosts oil production record',0.76
+580,1:?,-1,,0.94,'reasons caution chinese stocks',-0.94
+581,1:?,-1,,0.8,'short setups looking nicereally nice',-0.8
+582,1:?,1,,1,'buy call',1
+583,1:?,-1,,0.6,'hell would touch right',-0.6
+584,1:?,-1,,0.82,'misses 001misses revenue',-0.82
+585,1:?,-1,,0.659,'aapl using googl cloud',-0.659
+586,1:?,1,,0.99,'pie sky',0.99
+587,1:?,1,,0.97,'todays strong radar stock',0.97
+588,1:?,1,,0.55,'went long short acct',0.55
+589,1:?,1,,0.86,'synergy pharma soars 67 today positive phase 3 results',0.86
+590,1:?,1,,1,'unusual call activity',1
+591,1:?,1,,0.68,'tight pattern',0.68
+592,1:?,1,,1,'moved upper bollinger band',1
+593,1:?,-1,,0.76,breaking,-0.76
+594,1:?,1,,0.98,'68 calls buying activity',0.98
+595,1:?,1,,0.59,'could technical sellersshorts getting back game',0.59
+596,1:?,1,,1,'unusual call activity',1
+597,1:?,1,,0.54,'buying puts tomorrow',0.54
+598,1:?,1,,0.97,'good opportunity buy',0.97
+599,1:?,1,,0.62,'today close csx',0.62
+600,1:?,-1,,0.76,breaking,-0.76
+601,1:?,-1,,0.5,'seems strange marketthe way oil controlling markets',-0.5
+602,1:?,1,,1,'top netpayoutyields',1
+603,1:?,1,,0.61,'suggestion puts buy',0.61
+604,1:?,-1,,0.64,'anyone know whats up big sell',-0.64
+605,1:?,1,,0.98,'3 top japan etfs surge higher 2h',0.98
+606,1:?,1,,1,'closed buy',1
+607,1:?,-1,,0.85,'bear raid effect',-0.85
+608,1:?,-1,,0.84,'massive short squeeze opportunity',-0.84
+609,1:?,1,,0.7,'teel revenue rises 36 auto sector demand',0.7
+610,1:?,1,,1,'best stocks 2012',1
+611,1:?,1,,0.7,'board assess alibabasoftbank proposal',0.7
+612,1:?,1,,0.98,'picking up speed',0.98
+613,1:?,1,,0.89,'stock ripping',0.89
+614,1:?,1,,0.92,361,0.92
+615,1:?,1,,0.59,'whole foods market slated open doors may 25',0.59
+616,1:?,1,,0.89,'1m6m trends turn bullish today',0.89
+617,1:?,1,,0.88,'citi even reconfirmed outperform',0.88
+618,1:?,1,,0.79,'homebuilders lead sustained stock market rally',0.79
+619,1:?,1,,0.95,'full bull call spread ranging',0.95
+620,1:?,1,,0.66,'not want go downrisk appetite still high',0.66
+621,1:?,1,,1,'peter smedley reiterates jd sports fashion buy',1
+622,1:?,1,,0.97,'institutions seem like class stocks',0.97
+623,1:?,1,,0.75,'time embrace dividend growth',0.75
+624,1:?,1,,0.75,'nobody wants electric car',0.75
+625,1:?,1,,0.82,'reak hod volumewe nice consolidation completed another run',0.82
+626,1:?,1,,0.84,'stock climbs barrons sees 40 upside',0.84
+627,1:?,1,,0.97,'tock way highupgrades positive news expected',0.97
+628,1:?,1,,0.78,'short squeeze ready upside w crossing important technical level',0.78
+629,1:?,-1,,0.783,'nlsn launching marketing cloud',-0.783
+630,1:?,1,,0.91,'addding tsla ss added small vrx long tsla vrx',0.91
+631,1:?,1,,1,'buy call',1
+632,1:?,-1,,0.98,'oil prices down oil stocks looking less cheap',-0.98
+633,1:?,1,,0.92,'whos buying',0.92
+634,1:?,1,,0.72,'anglo american jumps 9',0.72
+635,1:?,1,,0.66,'component supplier crus falls sale',0.66
+636,1:?,1,,0.97,'nice day rally',0.97
+637,1:?,1,,0.61,'nibbling small longbuying 13min charts',0.61
+638,1:?,1,,1,'posted buy pm 440',1
+639,1:?,1,,0.7,'fire marissa maye',0.7
+640,1:?,1,,0.89,'someone buying bighere lows',0.89
+641,1:?,1,,0.97,'looking good',0.97
+642,1:?,1,,0.86,'amazing run since middle march',0.86
+643,1:?,1,,0.84,'generate 895m revenue',0.84
+644,1:?,1,,0.99,'could lotto winners',0.99
+645,1:?,1,,1,'piper jeffries raises pti remain long',1
+646,1:?,1,,0.89,'okay understand logic nowoh well helps price go up guess',0.89
+647,1:?,1,,0.91,'rally fridaynew52weekhighsp 31',0.91
+648,1:?,1,,0.95,'abc bullish pattern',0.95
+649,1:?,1,,0.88,'nice pattern al weeklybut pre earnings action thursday needs resolved',0.88
+650,1:?,1,,0.97,'institutions seem like class stocks',0.97
+651,1:?,1,,0.97,'lucrative esports opportunity',0.97
+652,1:?,1,,0.8,'v momentum',0.8
+653,1:?,1,,1,'225 million new internet users added globally every year',1
+654,1:?,1,,0.98,'equity indexes working positive engulfing march',0.98
+655,1:?,1,,0.85,'big year amgn',0.85
+656,1:?,-1,,0.84,'amzn dropping 7b market capbecause theyre losing 400m aapls business',-0.84
+657,1:?,-1,,0.59,'grpn much better day fb',-0.59
+658,1:?,1,,0.58,'launching japan fallthink one fastest launches country date',0.58
+659,1:?,1,,0.9,'added nxpi',0.9
+660,1:?,1,,0.75,'going back slowly',0.75
+661,1:?,1,,1,'added long friday close',1
+662,1:?,1,,0.97,'nice day rally',0.97
+663,1:?,1,,0.92,'seriously nothing says strong growth like well played',0.92
+664,1:?,-1,,0.86,'fast 56pc dive',-0.86
+665,1:?,-1,,0.91,'active puts',-0.91
+666,1:?,-1,,0.69,'wanted get morning missed',-0.69
+667,1:?,1,,0.92,'bot 224',0.92
+668,1:?,1,,0.93,'clearing new 52week high good base',0.93
+669,1:?,-1,,0.76,'short term consolidation movement higher',-0.76
+670,1:?,1,,0.91,'come party buy thisgonna give solid gains dividend',0.91
+671,1:?,-1,,0.64,'fb still dog going much lower week',-0.64
+672,1:?,1,,0.83,'kndi china electric car maker china car sales 78',0.83
+673,1:?,1,,0.92,'holy green day batmanluv plan comes together',0.92
+674,1:?,1,,0.57,'went 26 66',0.57
+675,1:?,-1,,0.83,'remember squeeze market di',-0.83
+676,1:?,1,,0.77,'needs make solid break thru current resistance',0.77
+677,1:?,-1,,1,'sometimes question bother sub 500 stocksretail short sighted',-1
+678,1:?,1,,0.86,'rsi lowest level since october 2012',0.86
+679,1:?,1,,0.89,'announces record esports viewership',0.89
+680,1:?,1,,1,'huge buy names',1
+681,1:?,1,,0.78,'decent handlepretty tight month',0.78
+682,1:?,1,,0.93,'sandbagged guidance cautiously optimistic',0.93
+683,1:?,1,,0.71,'fb 20 times advertisers twtr',0.71
+684,1:?,1,,0.94,'poised breakout',0.94
+685,1:?,1,,1,'sdrl 369 long',1
+686,1:?,1,,0.94,'closed friday rs line new highs',0.94
+687,1:?,-1,,0.77,'gon na start shorting every 10',-0.77
+688,1:?,1,,0.91,'large cap tech finally trying catch up rest market',0.91
+689,1:?,1,,0.57,'needs rush buyersi like tho',0.57
+690,1:?,1,,0.95,'juno got good news today',0.95
+691,1:?,1,,0.88,'room go',0.88
+692,1:?,-1,,0.5,'dilution dont scare',-0.5
+693,1:?,1,,0.88,'bumped up resistance 3 times 5min',0.88
+694,1:?,1,,0.76,'iraq boosts oil production record',0.76
+695,1:?,1,,0.95,'watch momentum above',0.95
+696,1:?,-1,,0.5,'600 yearly return not ordinary occurrence',-0.5
+697,1:?,-1,,0.96,'gon na short tsla tomorrows opening',-0.96
+698,1:?,1,,0.99,'sign healthy advancing stock stays above 20dma',0.99
+699,1:?,-1,,0.82,'down big would awesome',-0.82
+700,1:?,1,,0.58,'n great financial position',0.58
+701,1:?,1,,0.58,'start going up slowly',0.58
+702,1:?,-1,,0.99,'todays losers',-0.99
+703,1:?,1,,0.95,'breakout longthrough 100 200 masee run',0.95
+704,1:?,-1,,0.9,'may lower entry point',-0.9
+705,1:?,1,,0.95,'charts flashing oversold',0.95
+706,1:?,1,,1,long,1
+707,1:?,1,,0.72,'trims stake',0.72
+708,1:?,1,,0.98,'up 1326',0.98
+709,1:?,1,,0.99,'5 best analyst rated stocks',0.99
+710,1:?,-1,,0.81,'still notokay lack new products',-0.81
+711,1:?,1,,0.92,'think jazz plenty room run lots momentum continue pushing new highs',0.92
+712,1:?,-1,,0.9,'dump minor loss',-0.9
+713,1:?,1,,0.89,'lots nice setups energy liking whiting day crzo',0.89
+714,1:?,1,,0.72,'lets burn',0.72
+715,1:?,1,,0.71,'beatup ah',0.71
+716,1:?,1,,0.74,'every time jumps back range',0.74
+717,1:?,1,,1,'otherwise long',1
+718,1:?,1,,0.51,'bottom right',0.51
+719,1:?,1,,0.79,accumulating,0.79
+720,1:?,-1,,0.95,'elon musks comparision tsla aapl go notokay ',-0.95
+721,1:?,1,,1,trending,1
+722,1:?,-1,,0.81,'anyone else see issue wonder ebay stock sucks',-0.81
+723,1:?,1,,1,'unusual call activity',1
+724,1:?,1,,0.99,'green lol makeup cover ugliness',0.99
+725,1:?,-1,,1,'biggest market losers',-1
+726,1:?,1,,1,'unusual call activity',1
+727,1:?,1,,1,'quality stocks high cash returns',1
+728,1:?,1,,1,'play longs',1
+729,1:?,-1,,1,'biggest market losers',-1
+730,1:?,1,,0.64,'bmw takes leap ahead tesla',0.64
+731,1:?,-1,,0.93,'short interest increases yet',-0.93
+732,1:?,1,,0.51,'netflix raising prices 17m subscribers 2',0.51
+733,1:?,1,,0.98,'covered up last',0.98
+734,1:?,1,,1,'looking sharp move up equities',1
+735,1:?,1,,0.59,'amgn one year laterim tired waiting',0.59
+736,1:?,1,,0.94,'cash cheap financing fueling wave acquisitions',0.94
+737,1:?,-1,,0.9,'juniper tumbles q1 warning',-0.9
+738,1:?,-1,,0.67,'probably hit near term highmomentum slowing huge run',-0.67
+739,1:?,-1,,0.97,'decent notokay',-0.97
+740,1:?,-1,,0.61,'google baidutesla fast track create robot cars',-0.61
+741,1:?,1,,0.97,'cheaper oil introduce shipment higher tanker rates',0.97
+742,1:?,1,,1,'okay iether',1
+743,1:?,1,,0.94,'amzn up 5 points yesterdays trade entry alert',0.94
+744,1:?,-1,,0.92,'whats behind drop',-0.92
+745,1:?,-1,,0.84,'pure garbage stock',-0.84
+746,1:?,1,,0.97,'whole semiconductor space looks interesting',0.97
+747,1:?,-1,,0.78,'sells 109000 shares facebook',-0.78
+748,1:?,1,,0.88,'trails msft orcl goog crm adbe',0.88
+749,1:?,-1,,1,short,-1
+750,1:?,1,,0.87,'stock split',0.87
+751,1:?,1,,0.96,'calls nice gains still holdingweek made morning',0.96
+752,1:?,1,,0.93,'efficient boring',0.93
+753,1:?,1,,1,'buy point changed 319 318',1
+754,1:?,1,,0.54,'ibio seems gaining big moneyshorts hurting',0.54
+755,1:?,-1,,0.66,'im buyer',-0.66
+756,1:?,1,,1,'stocks higher afternoon trade',1
+757,1:?,1,,0.72,'lets burn',0.72
+758,1:?,-1,,0.74,'im glad got stopped',-0.74
+759,1:?,1,,0.54,'far good bbry not breakcoz told key support level',0.54
+760,1:?,1,,0.98,'covered call',0.98
+761,1:?,1,,0.63,'sold half ugaz long',0.63
+762,1:?,1,,0.77,'100 upside left next 6 mnths',0.77
+763,1:?,-1,,0.92,'sinking ship',-0.92
+764,1:?,1,,0.63,'jan18 6 put big print',0.63
+765,1:?,1,,1,longs,1
+766,1:?,1,,0.74,'future profits huge',0.74
+767,1:?,-1,,0.5,'major pump dump coming week',-0.5
+768,1:?,1,,0.92,'biggest st50 gainers',0.92
+769,1:?,1,,0.66,'wait little longer reentering',0.66
+770,1:?,1,,0.99,'possible double bottom set up',0.99
+771,1:?,-1,,0.77,'short week next week',-0.77
+772,1:?,1,,0.96,'breaking 52 week highs timing looks great',0.96
+773,1:?,1,,0.96,'higher afternoon tradebuy point',0.96
+774,1:?,1,,0.78,'short squeeze ready upside w crossing important technical level',0.78
+775,1:?,1,,0.98,'buy area',0.98
+776,1:?,-1,,0.72,'begin assault intel',-0.72
+777,1:?,1,,0.97,'today bought',0.97
+778,1:?,-1,,0.65,'analysts conjuring up metrics bring down boost short positions',-0.65
+779,1:?,1,,0.95,'surges deal',0.95
+780,1:?,-1,,0.57,'pick one would',-0.57
+781,1:?,1,,0.88,'rough climb topmany traders bag holders looking get',0.88
+782,1:?,1,,1,'stocks higher afternoon trade',1
+783,1:?,1,,0.95,'bullish pennantsymmetrical triangle bo progresslong 266',0.95
+784,1:?,-1,,0.68,'notokay sure see much tsla  side thus week',-0.68
+785,1:?,-1,,0.52,'one believes flyin anymore',-0.52
+786,1:?,1,,0.7,7324,0.7
+787,1:?,-1,,0.92,'notokay fundementals charts look like poopoo quarter',-0.92
