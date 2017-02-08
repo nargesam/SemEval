@@ -29,6 +29,8 @@ with open('Test_semEval_tolower.csv', 'rb') as f:
         testData.append(row)
 
 
+
+
 # tokenlist = list()
 # bigramlist = list()
 
