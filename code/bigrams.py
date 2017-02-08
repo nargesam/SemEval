@@ -1,8 +1,8 @@
 
 import os
 cwd = os.getcwd()
-path = "/Users/narges/Dropbox/SemEval2017/semeval-2017-task-5-subtask-1"
-os.chdir(path)
+path = "../data/"
+# os.chdir(path)
 
 import csv
 import nltk
@@ -15,11 +15,11 @@ import re
 
 Tweets = list()
 
-with open('Tweet_nonZero_tolower.csv', 'rb') as f:
-    reader = csv.reader(f)
-    for row in reader:
-        Tweets.append(row)
-		
+with open(os.path.join(path, 'Tweet_nonZero_tolower.csv'), 'rb') as f:
+	reader = csv.reader(f)
+	for row in reader:
+		Tweets.append(row)
+
 
 testData = list()
 
